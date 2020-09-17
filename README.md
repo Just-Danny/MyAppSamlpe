@@ -1,0 +1,2 @@
+# MyAppSamlpe
+practice with gitbash
