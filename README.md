@@ -1,2 +1,2 @@
-# MyAppSamlpe
+# MyAppSample
 practice with gitbash
